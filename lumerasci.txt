@@ -11,4 +11,28 @@ shiver run up her spine as she recalled the client's
 panicked message. It had been decades since the first 
 holoterminals were released to the consumer market. People 
 had difficulty ignoring strange, floating images they had 
-no control over. 
+no control over.
+
+She reached in the back of the holoterminal, groping for the 
+power cable to the ionic magnifier. She had just replaced 
+this part when she was here two days ago. Lumera was absolutely certain
+that the magnifier was the cause, and now to find that there 
+is an issue with a brand new part made this problem all the more
+peculiar.
+Lumera located the serial number on the magnifier and the location 
+of the nearest Maximum Manufacturing checkpoint, or MaXMaN for short.
+There wasn't a person alive that didn't rely on MaXMaN; since the 
+trade agreement of 2052 there wasn't much of a choice.
+She punched the com-text number of the MaXMaN checkpoint facility into
+her CrypBit phone to check if the facility had another ionic
+magnifier on hand that would be compatible with the holoterminal model
+belonging to Ms. Rotherfield. There was no point in spending the travel
+points if there is no replacement part; travel points were expensive enough.
+While she was waiting for the MaXMaN representative to respond to
+her inquiry Lumera noticed a flash behind her near the terminal.
+Her first thought was that the main power input was still live and
+beginning to cause the thermal flux controller to short without the
+presence of the ionic magnifier. She rushed to the main power switch
+to find that it was powered down.
+Lumera had only a few seconds to ponder this confusion when the
+holoscreen blinked on...
